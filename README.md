@@ -1,10 +1,7 @@
 # flights
-Exploratory analysis of the U.S. Department of Transportation's '2015 Flight Delays and Cancellations' dataset.
-
-# ✈️ Flight Delay Analysis
 
 ## Overview
-This project analyses flight departure delays to understand:
+This project analyses the U.S. Department of Transportation's '2015 Flight Delays and Cancellations' dataset to understand:
 - When delays are most severe
 - What factors contribute most to delays
 
